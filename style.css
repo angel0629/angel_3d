@@ -1,3 +1,41 @@
 .page{
     display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: lightblue;
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    color: #222;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    color: rebeccapurple;
+    margin-top: 10px;
+}
+
+.sketchfab-embed-wrapper {
+    border-radius: 8px;
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.people_3d {
+    border-radius: 8px;
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
